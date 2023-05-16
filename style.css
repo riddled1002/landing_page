@@ -116,6 +116,7 @@ img {
 }
 
 .action {
+    align-self: center;
     display: flex;
     justify-content: center;
     background-color: aqua;
